@@ -5,3 +5,4 @@ define KTYPE standard
 include ktypes/standard/standard.scc
 
 include apalis-imx6.scc
+include features/igb/igb.scc
