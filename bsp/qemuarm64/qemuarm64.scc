@@ -4,6 +4,8 @@ include features/vfio/vfio.scc
 
 include features/tee/tee.scc
 
+include features/i2c/i2cdev.scc
+
 include cfg/usb-mass-storage.scc
 
 kconf hardware qemuarm64.cfg
